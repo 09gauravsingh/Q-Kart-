@@ -1,2 +1,2 @@
-# Q-Kart-forntend
+# Q-Kart-frontend
 
