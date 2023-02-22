@@ -6,7 +6,7 @@ import Checkout from "./components/Checkout";
 import ipConfig from "./ipConfig.json";
 import { Route, Switch } from "react-router-dom";
 export const config = {
-  endpoint: `https://qt-kart-frontend.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-frontend2-4olc.onrender.com/api/v1`,
 };
 
 function App() {
